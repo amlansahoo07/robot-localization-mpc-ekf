@@ -84,7 +84,7 @@ Overall, these results demonstrate that integrating an EKF with MPC significantl
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0. See the `LICENSE` file for more details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
